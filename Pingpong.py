@@ -3,7 +3,7 @@
 # By "Disha Patil"
 
 import turtle as t
-import winsound 
+
 
 playerAscore = 0
 playerBscore = 0
